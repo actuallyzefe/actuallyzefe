@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Efe</h1>
 <h3 align="center">Junior NodeJs Developer</h3>
-https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 - 🔭 I’m currently working on [E-ticaretV2](https://github.com/actuallyzefe/E-ticaret-v2)
 
 - 🌱 I’m currently learning **NodeJS | NEST JS |TYPESCRIPT**
