@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Efe</h1>
 <h3 align="center">Junior NodeJs Developer</h3>
 
-- 🔭 I’m currently working on **E-ticaretV2**
+- 🔭 I’m currently working on [E-ticaretV2](https://github.com/actuallyzefe/E-ticaret-v2)
 
 - 🌱 I’m currently learning **NodeJS | NEST JS |TYPESCRIPT**
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/efe karakanlı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efe karakanlı" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
