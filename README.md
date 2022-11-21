@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Efe</h1>
 <h3 align="center">Junior NodeJs Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=actuallyzefe" alt="actuallyzefe" /></a> </p>
+- 🔭 I’m currently working on **E-ticaretV2**
+
+- 🌱 I’m currently learning **NodeJS | NEST JS |TYPESCRIPT**
+
+- 💬 Ask me about **Javascript**
+
+- 📫 How to reach me **zefek10@gmail.com**
+
+- ⚡ Fun fact **I play guitar.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
