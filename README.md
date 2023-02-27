@@ -4,7 +4,7 @@
 
 - 🍕 I’m currently learning **NEST JS | TYPESCRIPT | PostgreSQL**
 
-- 👉 I'm into finance/crypto and blockchain services. 
+- 👉 I'm into microservices / serverless systems. 
 
 - 📫 How to reach me **zefek10@gmail.com**
 
