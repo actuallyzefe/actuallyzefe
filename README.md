@@ -5,7 +5,7 @@
 
 
 
-- Skills: (NodeJS, TypeScript, ExpressJS, NestJS, MongoDB, AWS, Microservices, Unit Testing)
+- Skills: (NodeJS, TypeScript, Microservices, Elastic, Kafka, RabbitMQ, Docker ,K8s)
 
 - 👉 I'm into microservices / serverless systems. 
 
