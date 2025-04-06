@@ -3,9 +3,9 @@
 
 
 
-- Skills: (NodeJS, TypeScript, Microservices, Elastic, Kafka, RabbitMQ, Docker ,K8s)
+- Skills: (NodeJS, NestJS, AWS, TypeScript, Microservices, Elastic, Kafka, RabbitMQ, Docker ,K8s)
 
-- 👉 I'm into microservices / serverless systems. 
+- 👉 I'm into cloud, distributed systems, serverless systems. 
 
 - 📫 How to reach me **zefek10@gmail.com**
 
