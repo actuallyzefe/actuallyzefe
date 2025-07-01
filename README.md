@@ -2,8 +2,8 @@
 <h3 align="center">Backend Developer</h3>
 
 - 🔧 **Tech Stack:** Node.js, NestJS, TypeScript, AWS, Docker, Kubernetes, Kafka, RabbitMQ, Elasticsearch, Microservices  
-- ☁️ **Interests:** Cloud computing, distributed systems, serverless architecture  
-- 🤖 **Currently Exploring:** AI Agents and intelligent system design  
+- ☁️ **Interests:** AI Agents, Cloud computing, distributed systems, serverless architecture  
+- 🤖 **Currently Exploring:** AI Agents  
 - 📫 **Reach me at:** zefek10@gmail.com  
 
 <h3 align="left">Connect with me:</h3>
