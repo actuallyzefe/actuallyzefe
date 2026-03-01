@@ -1,10 +1,5 @@
-<h1 align="center">Hi 👋, I'm Efe</h1>
-<h3 align="center">Backend Developer</h3>
-
-- 🔧 **Tech Stack:** Node.js, NestJS, TypeScript, AWS, Docker, Kafka, RabbitMQ, Microservices  
-- ☁️ **Interests:** AI Agents, Cloud computing, distributed systems, serverless architecture  
-- 🤖 **Currently Exploring:** AI Agents  
-- 📫 **Reach me at:** zefek10@gmail.com  
+<h1 align="center">I'm Efe</h1>
+<h3 align="center"></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
